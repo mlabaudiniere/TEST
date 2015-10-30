@@ -25,7 +25,7 @@ B=A;
 C=A;
 D=A;
 
-L=1*ones(constraints,1);
+L=100*ones(constraints,1);
 
 
 for scheme=1:4
